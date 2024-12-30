@@ -1,4 +1,4 @@
-#Notes Saver
+# Notes Saver
 
 Notes Saver is a simple note-taking application built with React, Redux Toolkit, and React Router. It allows users to create, edit, delete, and view notes, providing an easy way to manage personal notes. The app uses localStorage to persist notes across sessions, ensuring that notes are saved even after the page is refreshed.
 
