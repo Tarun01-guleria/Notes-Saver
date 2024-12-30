@@ -4,11 +4,19 @@ Notes Saver is a simple note-taking application built with React, Redux Toolkit,
 
 Key Features:
 Create Notes: Users can create new notes by entering a title and content.
+
 Edit Notes: Existing notes can be updated with new content or title.
+
 Delete Notes: Users can delete notes, with real-time updates to the view.
+
 View Notes: View all saved notes in a list.
+
+Search Notes : there is search bar in notes section where user can filter notes based on text.
+
 Persistent Data: Notes are stored in localStorage so that they persist even after page refresh.
+
 Routing: React Router is used for dynamic routing to edit notes, allowing a smooth user experience for note management.
+
 Redux Toolkit: The application uses Redux Toolkit for state management, ensuring the app state is managed in a predictable and efficient way.
 
 
